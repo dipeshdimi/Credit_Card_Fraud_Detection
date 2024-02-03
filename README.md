@@ -2,6 +2,7 @@
 
 ## Introduction
 This repository contains a Jupyter Notebook (`Credit_Card_Fraud_Detection.ipynb`) that focuses on detecting fraudulent credit card transactions using logistic regression. The notebook includes steps for data loading, exploration, preprocessing, model training, and evaluation.
+-[Colab Link](https://colab.research.google.com/drive/1B1IJKPkXi4PAGA9NjJeBSmEQlck9u55-?usp=sharing)
 
 ## Dataset
 The dataset used in this project can be found on [Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud). It consists of transactions labeled as legitimate (Class 0) or fraudulent (Class 1). Please note that the dataset is relatively large, so the initial loading may take some time.
